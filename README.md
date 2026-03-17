@@ -1,4 +1,4 @@
-# AKASAKI – 【AKASAKI】アクション / ACTION（Music Video）
+# AKASAKI – アクション
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
