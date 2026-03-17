@@ -1,48 +1,48 @@
 {
   "version": 1,
-  "base_track": "【AKASAKI】アクション / ACTION（Music Video）",
+  "base_track": "アクション",
   "base_artist": "AKASAKI",
-  "createdAt": "2026-02-06T00:24:54.652319Z",
+  "createdAt": "2026-03-17T22:58:53.576667Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "アクション",
-      "artist": "Hermann H. & The Pacemakers",
-      "has_synced": true,
-      "path": "select/01_アクション_Hermann_H._&_The_Pacemakers.lrc"
+      "title": "ピース・オブ・ユア・アクション",
+      "artist": "Mötley Crüe",
+      "has_synced": false,
+      "path": "select/01_ピース・オブ・ユア・アクション_Mötley_Crüe.txt"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "ピース・オブ・ユア・アクション",
-      "artist": "Mötley Crüe",
+      "title": "イージー・アクション",
+      "artist": "T. Rex",
       "has_synced": false,
-      "path": "select/02_ピース・オブ・ユア・アクション_Mötley_Crüe.txt"
+      "path": "select/02_イージー・アクション_T._Rex.txt"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "イージー・アクション",
-      "artist": "T. Rex",
-      "has_synced": false,
-      "path": "select/03_イージー・アクション_T._Rex.txt"
+      "title": "レディー・アクション!",
+      "artist": "ミラクル☆キラッツ(cv.林 鼓子、久保田未夢)",
+      "has_synced": true,
+      "path": "select/03_レディー・アクション!_ミラクル☆キラッツ(cv.林_鼓子、久保田未夢).lrc"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "レディー・アクション!",
-      "artist": "ミラクル☆キラッツ(cv.林 鼓子、久保田未夢)",
+      "title": "レディー・アクション！",
+      "artist": "ミラクル☆キラッツ(cv.林鼓子、久保田未夢)",
       "has_synced": true,
-      "path": "select/04_レディー・アクション!_ミラクル☆キラッツ(cv.林_鼓子、久保田未夢).lrc"
+      "path": "select/04_レディー・アクション!_ミラクル☆キラッツ(cv.林鼓子、久保田未夢).lrc"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "レディー・アクション！",
-      "artist": "ミラクル☆キラッツ(cv.林鼓子、久保田未夢)",
+      "title": "アクション",
+      "artist": "Hermann H. & The Pacemakers",
       "has_synced": true,
-      "path": "select/05_レディー・アクション!_ミラクル☆キラッツ(cv.林鼓子、久保田未夢).lrc"
+      "path": "select/05_アクション_Hermann_H._&_The_Pacemakers.lrc"
     },
     {
       "id": "lrclib_6",
@@ -75,6 +75,15 @@
       "artist": "AKASAKI",
       "has_synced": false,
       "path": "select/pl_01_アクション_AKASAKI.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "アクション",
+      "artist": "AKASAKI",
+      "has_synced": false,
+      "path": "select/localdb_01_アクション_AKASAKI.txt",
+      "repo_name": "80sNX81Kags"
     }
   ]
 }
